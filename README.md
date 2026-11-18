@@ -1,0 +1,2 @@
+# ammugit
+git is tool
